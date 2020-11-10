@@ -1,0 +1,17 @@
+
+body {
+  background-color: #000;
+  margin: 43px;
+}
+
+p {
+  width: 284px;
+  margin-bottom: 86px;
+  padding: 10px;
+  background-color: #ddd;
+  box-shadow: 0 0 0 1px #e75551,
+    0 0 0 11px #ffa500,
+    0 0 0 12px #e75551,
+    0 0 0 22px #308dc0,
+    0 0 0 23px #e75551;
+}
