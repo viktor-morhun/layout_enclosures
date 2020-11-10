@@ -5,7 +5,7 @@ body {
 }
 
 .block-color3 {
-  padding: 10px;
+  padding: 0 10px;
   width: 350px;
   margin-bottom: 40px;
   background-color: #308dc0;
@@ -14,18 +14,16 @@ body {
 }
 
 .block-color2 {
-  padding: 10px;
+  margin: 10px 0;
   background-color: #fda70b;
   border: 1px #e75551 solid;
   box-sizing: border-box;
-  height: 152px;
 }
 
 .block-color1 {
+  margin: 10px;
   padding: 10px;
   background-color: #ddd;
   border: 1px #e75551 solid;
   box-sizing: border-box;
-  position: relative;
-  bottom: 16px;
 }
